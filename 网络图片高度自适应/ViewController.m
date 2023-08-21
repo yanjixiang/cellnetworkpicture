@@ -10,6 +10,7 @@
 #import "CustomTableViewCell.h"
 #import "UIImageView+WebCache.h"
 #import "XHWebImageAutoSize.h"
+
 static NSString *const cellId = @"CustomTableViewCell";
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource>
